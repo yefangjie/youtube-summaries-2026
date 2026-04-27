@@ -1,0 +1,13 @@
+🤖[机器人自动通知]
+IBM Technology 频道检测到新视频并已完成处理。
+
+视频：Claude Mythos, Project Glasswing and AI cybersecurity risks
+视频 ID：DGnHbF-KtKU
+日期目录：2026-04-10
+GitHub： https://github.com/yefangjie/youtube-summaries-2026/tree/main/2026-04-10
+Markdown：ibm-technology-claude-mythos-project-glasswing-ai-security.md
+PPTX：ibm-technology-claude-mythos-project-glasswing-ai-security.pptx
+
+备注：Blogger 发布在当前网络环境下因 Google SSL 连接错误失败，待重试。
+邮件目标：yefangjie2024@gmail.com
+飞书目标：ou_9122ca1a62aa126333c7ecad4ab95124
