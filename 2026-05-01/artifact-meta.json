@@ -1,0 +1,72 @@
+{
+  "date_dir": "2026-05-01",
+  "channel": "IBM Technology",
+  "videos": [
+    {
+      "video_id": "Zk3FX8ZXa-s",
+      "upload_date": "20260501",
+      "title": "Granite 4.1, IBM Bob & building a quantum ecosystem",
+      "slug": "granite-4-1-ibm-bob-building-a-quantum-ecosystem",
+      "vtt_path": "/home/new/.openclaw/downloads/youtube-monitor/Zk3FX8ZXa-s/Zk3FX8ZXa-s.en.vtt",
+      "md_path": "/home/new/.openclaw/workspace/youtube-summaries-2026/2026-05-01/granite-4-1-ibm-bob-building-a-quantum-ecosystem.md",
+      "pptx_path": "/home/new/.openclaw/workspace/youtube-summaries-2026/2026-05-01/granite-4-1-ibm-bob-building-a-quantum-ecosystem.pptx",
+      "github_url": "https://github.com/yefangjie/youtube-summaries-2026/tree/main/2026-05-01",
+      "blogger_url": null
+    },
+    {
+      "video_id": "rTM95-gZtOs",
+      "upload_date": "20260430",
+      "title": "Q‑Day Explained: How Quantum Computing Threatens Today’s Cryptography",
+      "slug": "q-day-explained-how-quantum-computing-threatens-today-s-cryptography",
+      "vtt_path": "/home/new/.openclaw/downloads/youtube-monitor/rTM95-gZtOs/rTM95-gZtOs.en.vtt",
+      "md_path": "/home/new/.openclaw/workspace/youtube-summaries-2026/2026-05-01/q-day-explained-how-quantum-computing-threatens-today-s-cryptography.md",
+      "pptx_path": "/home/new/.openclaw/workspace/youtube-summaries-2026/2026-05-01/q-day-explained-how-quantum-computing-threatens-today-s-cryptography.pptx",
+      "github_url": "https://github.com/yefangjie/youtube-summaries-2026/tree/main/2026-05-01",
+      "blogger_url": null
+    },
+    {
+      "video_id": "PJGIWDW_W2A",
+      "upload_date": "20260429",
+      "title": "Is open source safe? Featuring Mixture of Experts",
+      "slug": "is-open-source-safe-featuring-mixture-of-experts",
+      "vtt_path": "/home/new/.openclaw/downloads/youtube-monitor/PJGIWDW_W2A/PJGIWDW_W2A.en.vtt",
+      "md_path": "/home/new/.openclaw/workspace/youtube-summaries-2026/2026-05-01/is-open-source-safe-featuring-mixture-of-experts.md",
+      "pptx_path": "/home/new/.openclaw/workspace/youtube-summaries-2026/2026-05-01/is-open-source-safe-featuring-mixture-of-experts.pptx",
+      "github_url": "https://github.com/yefangjie/youtube-summaries-2026/tree/main/2026-05-01",
+      "blogger_url": null
+    },
+    {
+      "video_id": "LKNsPQPdSes",
+      "upload_date": "20260420",
+      "title": "Where Claude Mythos can help",
+      "slug": "where-claude-mythos-can-help",
+      "vtt_path": "/home/new/.openclaw/downloads/youtube-monitor/LKNsPQPdSes/LKNsPQPdSes.en.vtt",
+      "md_path": "/home/new/.openclaw/workspace/youtube-summaries-2026/2026-05-01/where-claude-mythos-can-help.md",
+      "pptx_path": "/home/new/.openclaw/workspace/youtube-summaries-2026/2026-05-01/where-claude-mythos-can-help.pptx",
+      "github_url": "https://github.com/yefangjie/youtube-summaries-2026/tree/main/2026-05-01",
+      "blogger_url": null
+    },
+    {
+      "video_id": "DjoHXVlCxNE",
+      "upload_date": "20260415",
+      "title": "Hackers Don’t Take Coffee Breaks ☕",
+      "slug": "hackers-don-t-take-coffee-breaks",
+      "vtt_path": "/home/new/.openclaw/downloads/youtube-monitor/DjoHXVlCxNE/DjoHXVlCxNE.en.vtt",
+      "md_path": "/home/new/.openclaw/workspace/youtube-summaries-2026/2026-05-01/hackers-don-t-take-coffee-breaks.md",
+      "pptx_path": "/home/new/.openclaw/workspace/youtube-summaries-2026/2026-05-01/hackers-don-t-take-coffee-breaks.pptx",
+      "github_url": "https://github.com/yefangjie/youtube-summaries-2026/tree/main/2026-05-01",
+      "blogger_url": null
+    },
+    {
+      "video_id": "dnHo5hSkpR4",
+      "upload_date": "20260402",
+      "title": "Crypto Beyond Dark Web Myths",
+      "slug": "crypto-beyond-dark-web-myths",
+      "vtt_path": "/home/new/.openclaw/downloads/youtube-monitor/dnHo5hSkpR4/dnHo5hSkpR4.en.vtt",
+      "md_path": "/home/new/.openclaw/workspace/youtube-summaries-2026/2026-05-01/crypto-beyond-dark-web-myths.md",
+      "pptx_path": "/home/new/.openclaw/workspace/youtube-summaries-2026/2026-05-01/crypto-beyond-dark-web-myths.pptx",
+      "github_url": "https://github.com/yefangjie/youtube-summaries-2026/tree/main/2026-05-01",
+      "blogger_url": null
+    }
+  ]
+}
