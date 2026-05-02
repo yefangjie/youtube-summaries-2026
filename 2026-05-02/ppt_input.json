@@ -1,0 +1,9 @@
+{
+  "theme": "dark",
+  "slides": [
+    {"title": "RAG、GraphRAG与上下文工程如何提升AI性能", "content": "探索提升大语言模型表现的关键技术"},
+    {"title": "传统 RAG 的局限与演进", "content": "解决幻觉问题，但在跨文档推理上存在挑战"},
+    {"title": "GraphRAG 引入知识图谱", "content": "结合向量搜索与知识网络，理解复杂连接关系"},
+    {"title": "什么是上下文工程？", "content": "高效检索、排序数据并格式化输出，不仅是简单的 prompt"}
+  ]
+}
